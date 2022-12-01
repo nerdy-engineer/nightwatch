@@ -11,8 +11,8 @@
   - Distance
     - Pulse Time of flight: (0.89ms, 6"/15.2cm)-(106.6ms, 60'/1800cm)
   - Velocity (Doppler shift)
-    - Resolution of 1ft/sec requires a sample history of 
-    - 
+    - Resolution of 1ft/sec requires a sample history of 28ms limiting minimum distance measurements to approx. 18'
+    - Resolution of 3ft/sec requires a sample history of 9.36ms limiting minimum distance measurements to approx. 5'3"
 - Frequency Response
   - Distance
   - Velocity (Doppler shift using multiple frequencies)
