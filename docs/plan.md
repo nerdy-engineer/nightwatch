@@ -1,7 +1,7 @@
 
 # Sonar
 - Distance range: 15cm - 18m
-- Sample rate: 18m @ 9Hz, 6m @ 28Hz
+- Measurement rate: 18m @ 9Hz, 6m @ 28Hz
 - Multiple reflection detection
 
 
@@ -9,7 +9,10 @@
 
 - Simple
   - Distance
+    - Pulse Time of flight: (0.89ms, 6"/15.2cm)-(106.6ms, 60'/1800cm)
   - Velocity (Doppler shift)
+    - Resolution of 1ft/sec requires a sample history of 
+    - 
 - Frequency Response
   - Distance
   - Velocity (Doppler shift using multiple frequencies)
@@ -68,6 +71,7 @@
 
 ### Processor:
 - \>=2 ADCs (8-bit+)
+  - Sample rate: 100000Hz
 - \>=2 DACs
 - CAN
 - I2C
